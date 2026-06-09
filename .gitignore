@@ -1,0 +1,14 @@
+.env
+.env.*
+*.log
+
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Private study material
+raw/private/
+
+# Local scratch / temporary files
+tmp/
